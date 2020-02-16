@@ -1,0 +1,1 @@
+/Applications/TextEdit.app,/Applications/Spotify.app,/Applications/Messages.app,/Applications/Utilities/Terminal.app,/Applications/Google Chrome.app,/Applications/Utilities/Console.app,

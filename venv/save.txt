@@ -1,1 +1,1 @@
-/Applications/Utilities/Terminal.app,/Applications/Google Chrome.app,/Applications/Messages.app,/Applications/Spotify.app,/Applications/Calendar.app,
+/Applications/Utilities/Terminal.app,/Applications/Google Chrome.app,/Applications/Messages.app,/Applications/Spotify.app,/Applications/Calendar.app,/Applications/TunnelBear.app,/Applications/TextEdit.app,
